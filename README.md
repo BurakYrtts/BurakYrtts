@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and linux
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing rn
-- 📫 How to reach me => E-mail: Burakyrts@gmail.com
+- 📫 How to reach me => E-mail: Burakyrtts@gmail.com
 
 <!---
 BurakYrtts/BurakYrtts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
